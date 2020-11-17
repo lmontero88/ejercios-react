@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "ReactDOM.render needs to be called once",
+      "status": "passed"
+    },
+    {
+      "title": "The component needs to be called like a JSX tag: E.g: <FunctionName />",
+      "status": "passed"
+    },
+    {
+      "title": "The component should return the exact HTML",
+      "status": "passed"
+    }
+  ]
+}

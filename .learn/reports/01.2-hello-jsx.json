@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "ReactDOM.render needs to be called once",
+      "status": "passed"
+    },
+    {
+      "title": "The returned JSX statement should be exactly this: <span>{ name } is { age } years old</span>",
+      "status": "passed"
+    }
+  ]
+}

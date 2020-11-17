@@ -4,13 +4,17 @@ import PropTypes from "prop-types";
 
 //add the styles here
 const mySuperStyles = {
-
+	color: "blue",
+	fontSize: "16px",
+	border: "1px solid yellow",
+	backgroundColor: "black"
 };
 
 const Badge = props => {
 	return (
 		<button style={mySuperStyles} type="button" className="btn btn-primary">
-			{props.label}<span className="badge badge-light">{props.number}</span>
+			{props.label}
+			<span className="badge badge-light">{props.number}</span>
 		</button>
 	);
 };

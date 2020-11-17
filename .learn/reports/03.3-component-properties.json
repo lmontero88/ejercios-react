@@ -1,0 +1,41 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 7,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "ReactDOM.render needs to be called once",
+      "status": "passed"
+    },
+    {
+      "title": "Component title is being passed properly",
+      "status": "passed"
+    },
+    {
+      "title": "Component imageUrl is being passed properly",
+      "status": "passed"
+    },
+    {
+      "title": "Component description is being passed properly",
+      "status": "passed"
+    },
+    {
+      "title": "Component buttonUrl is being passed properly",
+      "status": "passed"
+    },
+    {
+      "title": "Component buttonLabel is being passed properly",
+      "status": "passed"
+    },
+    {
+      "title": "The component should return the exact HTML",
+      "status": "passed"
+    }
+  ]
+}

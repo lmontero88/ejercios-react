@@ -1,0 +1,13 @@
+{
+  "success": false,
+  "numFailedTestSuites": 1,
+  "numFailedTests": 0,
+  "numPassedTests": 0,
+  "testResults": [
+    {
+      "message": "  \u001b[1m● \u001b[22mTest suite failed to run\n\n    ReferenceError: content is not defined\n\n    \u001b[0m \u001b[90m 28 | \u001b[39m\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n    \u001b[0m \u001b[90m 29 | \u001b[39m\u001b[0m\n    \u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 | \u001b[39m\u001b[33mReactDOM\u001b[39m\u001b[33m.\u001b[39mrender(content\u001b[33m,\u001b[39m document\u001b[33m.\u001b[39mquerySelector(\u001b[32m\"#myDiv\"\u001b[39m))\u001b[33m;\u001b[39m\u001b[0m\n    \u001b[0m \u001b[90m    | \u001b[39m                \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n    \u001b[0m \u001b[90m 31 | \u001b[39m\u001b[0m\n\n      \u001b[2mat Object.<anonymous> (\u001b[22mexercises/01.4-building-a-layout/index.js\u001b[2m:30:17)\u001b[22m\n      \u001b[2mat Object.<anonymous> (\u001b[22m\u001b[0m\u001b[36mexercises/01.4-building-a-layout/tests.js\u001b[39m\u001b[0m\u001b[2m:3:1)\u001b[22m\n",
+      "errorType": {}
+    }
+  ],
+  "failed": []
+}
